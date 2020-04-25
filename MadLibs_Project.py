@@ -12,6 +12,7 @@ funny2 = input("please write a funny word")
 funny3 = input("please write a funny word")
 funny4 = input("please write a funny word")
 verb2 = input("please write a verb")
+verb3 = input("please write a verb")
 
 print("I stay out too late, got" + (verb1) + " " + "in my brain")
 print("That's what" + " " + (subject1) + " " + "say, mmm hmm, that's what" + " " + (subject1) + " " + "say, mmm hmm")
@@ -23,5 +24,6 @@ print("'Cause the players gonna" + " " + (funny2) + " " + (funny2) + " " + (funn
 print("And the haters gonna" + " " + (funny3) + " " + (funny3) + " " +  (funny3) + " " +(funny3) + " " + (funny3) + " ")
 print("'Cause the players gonna" + (funny4) + " " + (funny4) + " " +  (funny4) + " " + (funny4) + " " + (funny4))
 print("I" + (verb2) + "it off, I" + " " + (verb2) + " " + "it off")
+print("I" + (verb3) + "it off, I" + " " + (verb3) + " " + "it off")
 
 
